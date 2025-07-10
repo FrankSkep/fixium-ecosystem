@@ -140,43 +140,64 @@ Each module maintains:
 
 ---
 
-## 🖼️ **Screenshots**
+### 🖼️ **Screenshots**
+
+#### General Screenshots
 
 <p align="center">
-  <img src="./assets/1-login.png" alt="Login Screen" width="600"/>
+  <img src="./assets/1-login.png" alt="Login Screen"/>
 </p>
 
 <p align="center">
-  <img src="./assets/2-registro.png" alt="User Registration" width="600"/>
+  <img src="./assets/2-registro.png" alt="User Registration"/>
 </p>
 
 <p align="center">
-  <img src="./assets/3-dashboard.png" alt="Dashboard Overview" width="600"/>
+  <img src="./assets/3-dashboard.png" alt="Dashboard Overview"/>
 </p>
 
 <p align="center">
-  <img src="./assets/4-tickets-view.png" alt="Tickets View" width="600"/>
+  <img src="./assets/4-tickets-view.png" alt="Tickets View"/>
 </p>
 
 <p align="center">
-  <img src="./assets/5-ticket-detail.png" alt="Ticket Detail" width="600"/>
+  <img src="./assets/5-ticket-detail.png" alt="Ticket Detail"/>
 </p>
 
 <p align="center">
-  <img src="./assets/6-repairs-view.png" alt="Repairs Management" width="600"/>
+  <img src="./assets/6-repairs-view.png" alt="Repairs Management"/>
 </p>
 
 <p align="center">
-  <img src="./assets/7-users.png" alt="Users Management" width="600"/>
+  <img src="./assets/7-users.png" alt="Users Management"/>
 </p>
 
 <p align="center">
-  <img src="./assets/10-ai-assistant.png" alt="AI Technical Assistant" width="600"/>
+  <img src="./assets/10-ai-assistant.png" alt="AI Technical Assistant"/>
 </p>
 
 <p align="center">
-  <img src="./assets/11-panic-tool.png" alt="Panic Log Analysis Tool" width="600"/>
+  <img src="./assets/11-panic-tool.png" alt="Panic Log Analysis Tool"/>
 </p>
+
+---
+
+#### Ticket Registration Flow
+
+<p align="center">
+  <img src="./assets/register-client.png" alt="Register Client" width="300"/>
+  <img src="./assets/select-device.png" alt="Select Device" width="300"/>
+</p>
+
+<p align="center">
+  <img src="./assets/device-status.png" alt="Device Status" width="300"/>
+  <img src="./assets/upload-images.png" alt="Upload Images" width="300"/>
+</p>
+
+<p align="center">
+  <img src="./assets/summary.png" alt="Summary" width="300"/>
+</p>
+
 
 *(For full demo, please request access.)*
 
