@@ -23,7 +23,7 @@ Fixium is a **comprehensive management platform** designed for iOS device repair
 
 ---
 
-## 📝 **Overview**
+## 📝 Overview
 
 Fixium centralizes the management of workshops, users, customers, devices, and repairs into a single ecosystem composed of:
 
