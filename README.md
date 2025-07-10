@@ -142,7 +142,8 @@ Each module maintains:
 
 ### 🖼️ **Screenshots**
 
-#### General Screenshots
+<details>
+<summary><strong>General Screenshots</strong></summary>
 
 <p align="center">
   <img src="./assets/1-login.png" alt="Login Screen"/>
@@ -180,23 +181,33 @@ Each module maintains:
   <img src="./assets/11-panic-tool.png" alt="Panic Log Analysis Tool"/>
 </p>
 
----
+</details>
 
-#### Ticket Registration Flow
+<details>
+<summary><strong>Ticket Registration Flow</strong></summary>
 
 <p align="center">
-  <img src="./assets/register-client.png" alt="Register Client" width="300"/>
-  <img src="./assets/select-device.png" alt="Select Device" width="300"/>
+  <img src="./assets/register-client.png" alt="Register Client"/>
 </p>
 
 <p align="center">
-  <img src="./assets/device-status.png" alt="Device Status" width="300"/>
-  <img src="./assets/upload-images.png" alt="Upload Images" width="300"/>
+  <img src="./assets/select-device.png" alt="Select Device"/>
 </p>
 
 <p align="center">
-  <img src="./assets/summary.png" alt="Summary" width="300"/>
+  <img src="./assets/device-status.png" alt="Device Status"/>
 </p>
+
+<p align="center">
+  <img src="./assets/upload-images.png" alt="Upload Images"/>
+</p>
+
+<p align="center">
+  <img src="./assets/summary.png" alt="Summary"/>
+</p>
+
+</details>
+
 
 
 *(For full demo, please request access.)*
