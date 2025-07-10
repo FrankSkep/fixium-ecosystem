@@ -1,14 +1,14 @@
-# 🛠️ Fixium – Ecosystem for iOS Repair Workshops
+# Fixium – Ecosystem for iOS Repair Workshops
 
 Fixium is a **comprehensive management platform** designed for iOS device repair workshops. It integrates a robust backend, a modern frontend, and smart technical tools to streamline operations, enhance security, and improve technician productivity.
 
-> **⚠️ Note:**  
+> **Note:**  
 > This repository contains **public documentation only**. The project’s source code is private and proprietary.  
 > Demo available upon request.
 
 ---
 
-## 📌 **Table of Contents**
+## Table of Contents
 
 - [Overview](#overview)
 - [Problem it Solves](#problem-it-solves)
@@ -16,14 +16,13 @@ Fixium is a **comprehensive management platform** designed for iOS device repair
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
 - [Impact](#impact)
-- [Project Status](#project-status)
 - [My Role](#my-role)
 - [License](#license)
 - [Contact](#contact)
 
 ---
 
-## 📝 Overview
+## Overview
 
 Fixium centralizes the management of workshops, users, customers, devices, and repairs into a single ecosystem composed of:
 
@@ -34,7 +33,7 @@ Fixium centralizes the management of workshops, users, customers, devices, and r
 
 ---
 
-## 💡 **Problem it Solves**
+## Problem it Solves
 
 Fixium optimizes technical workshop operations by integrating:
 
@@ -46,7 +45,7 @@ This improves productivity, security, and customer satisfaction in repair proces
 
 ---
 
-## ✨ **Features**
+## Features
 
 ✅ **Robust Backend:**
 
@@ -105,7 +104,7 @@ This improves productivity, security, and customer satisfaction in repair proces
 
 ---
 
-## 🏗️ **Architecture**
+## Architecture
 
 The system is designed following **Clean Architecture** principles, ensuring scalability and maintainability:
 
@@ -123,7 +122,7 @@ Each module maintains:
 
 ---
 
-## ⚙️ **Technologies Used**
+## Technologies Used
 
 - **Backend:** Java 21, Spring Boot, Spring Security (JWT), JPA/Hibernate, PostgreSQL, Cloudinary, AWS Rekognition, Qwen3 API, OpenPDF
 - **Frontend:** SvelteKit, TailwindCSS, Electron, Chart.js, GSAP, Marked
@@ -131,7 +130,7 @@ Each module maintains:
 
 ---
 
-## 🚀 **Impact**
+## Impact
 
 ✔️ Streamlines workshop operations  
 ✔️ Enhances security with facial verification  
@@ -140,7 +139,7 @@ Each module maintains:
 
 ---
 
-### 🖼️ **Screenshots**
+## Screenshots
 
 <details>
 <summary><strong>General Screenshots</strong></summary>
@@ -208,13 +207,9 @@ Each module maintains:
 
 </details>
 
-
-
-*(For full demo, please request access.)*
-
 ---
 
-## 👨‍💻 **My Role**
+## My Role
 
 - **Backend Developer & System Architect:**  
   - Designed and developed the REST API with Spring Boot  
@@ -229,14 +224,14 @@ Each module maintains:
 
 ---
 
-## 📄 **License**
+## License
 
 All rights reserved. This repository is for **portfolio and documentation purposes only**.  
 No source code is included.
 
 ---
 
-## 📬 **Contact**
+## Contact
 
 For inquiries, demo access, or technical discussion, please contact:
 
